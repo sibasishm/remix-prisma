@@ -1,9 +1,11 @@
 {
 	"scripts": {
-		"build": "remix build"
+		"build": "remix build",
+		"dev": "remix dev"
 	},
 	"dependencies": {
 		"@remix-run/react": "^1.7.0",
+		"@remix-run/serve": "^1.7.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0"
 	},
