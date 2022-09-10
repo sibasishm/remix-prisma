@@ -3,6 +3,7 @@
 		"build": "remix build"
 	},
 	"dependencies": {
+		"@remix-run/react": "^1.7.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0"
 	},
