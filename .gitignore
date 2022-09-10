@@ -1,9 +1,9 @@
 node_modules
-.DS_Store
 
 /build
 /public/build
 .env
+.cache
 
 /cypress/screenshots
 /cypress/videos
