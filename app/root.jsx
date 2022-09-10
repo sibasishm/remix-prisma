@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { Scripts } from '@remix-run/react';
 
 export default function App() {
 	const [count, setCount] = React.useState(0);
@@ -20,6 +21,7 @@ export default function App() {
 				>
 					{count}
 				</button>
+				<Scripts />
 			</body>
 		</html>
 	);
